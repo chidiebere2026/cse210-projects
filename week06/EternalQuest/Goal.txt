@@ -1,0 +1,3 @@
+0
+SimpleGoal|game|to play game|58|False
+EternalGoal|gospel|the bible|57
